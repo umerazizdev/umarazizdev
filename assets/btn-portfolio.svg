@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="41" viewBox="0 0 148 41">
+  <title>Portfolio</title>
+  <rect x=".5" y=".5" width="147" height="40" rx="10" fill="#175f73" stroke="#78e7d4" stroke-opacity=".4"/>
+  <path d="M5 12h13m-5-5 5 5-5 5" transform="translate(11 8)" fill="none" stroke="#78e7d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="43" y="25.5" fill="#f0f7ff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="700">Portfolio</text>
+</svg>

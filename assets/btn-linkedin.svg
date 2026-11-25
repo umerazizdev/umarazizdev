@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="41" viewBox="0 0 132 41">
+  <title>LinkedIn</title>
+  <rect x=".5" y=".5" width="131" height="40" rx="10" fill="#1b3555" stroke="#adcfff" stroke-opacity=".4"/>
+  <path d="M7 17v-5m0-4h.01M11 17v-5m0 1c1-2 5-2 5 1v3" transform="translate(11 8)" fill="none" stroke="#adcfff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="43" y="25.5" fill="#f0f7ff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="700">LinkedIn</text>
+</svg>
