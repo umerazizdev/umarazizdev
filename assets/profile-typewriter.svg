@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="52" viewBox="0 0 500 52" role="img" aria-labelledby="typing-title">
+  <title id="typing-title">I build Flutter apps, cross-platform apps, and real-time experiences</title>
+  <style>
+    .cycle { opacity: 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .still { display: none; }
+      .cycle { animation: show 12s steps(1, end) var(--delay) infinite; }
+      .wipe {
+        transform-origin: 0 0;
+        animation: wipe 12s linear var(--delay) infinite;
+      }
+      .caret { animation: follow 12s linear var(--delay) infinite; }
+    }
+    @keyframes show {
+      0% { opacity: 1; }
+      33.3333%, 100% { opacity: 0; }
+    }
+    @keyframes wipe {
+      0% { transform: scaleX(0); animation-timing-function: steps(var(--steps), end); }
+      10% { transform: scaleX(1); }
+      22% { transform: scaleX(1); animation-timing-function: steps(var(--steps), end); }
+      31%, 100% { transform: scaleX(0); }
+    }
+    @keyframes follow {
+      0% { transform: translateX(0); animation-timing-function: steps(var(--steps), end); }
+      10% { transform: translateX(var(--distance)); }
+      22% { transform: translateX(var(--distance)); animation-timing-function: steps(var(--steps), end); }
+      31%, 100% { transform: translateX(0); }
+    }
+  </style>
+  <defs>
+    <clipPath id="clip-flutter">
+      <rect class="wipe" width="159" height="52" style="--steps:12; --delay:0s"/>
+    </clipPath>
+    <clipPath id="clip-cross-platform">
+      <rect class="wipe" width="251" height="52" style="--steps:19; --delay:4s"/>
+    </clipPath>
+    <clipPath id="clip-real-time">
+      <rect class="wipe" width="278" height="52" style="--steps:21; --delay:8s"/>
+    </clipPath>
+  </defs>
+  <rect x=".5" y=".5" width="499" height="51" rx="10" fill="#101f32" stroke="#34556d"/>
+  <circle cx="22" cy="26" r="3" fill="#78e7d4"/>
+  <text x="36" y="34" fill="#edf6ff" font-family="system-ui, sans-serif" font-size="22" font-weight="700">I build</text>
+  <g transform="translate(113 0)" fill="#78e7d4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" font-weight="700">
+    <text class="still" y="34">Flutter Apps</text>
+    <g class="cycle" style="--steps:12; --delay:0s; --distance:159px">
+      <text y="34" textLength="159" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-flutter)">Flutter Apps</text>
+      <rect class="caret" x="3" y="14" width="2" height="24" rx="1"/>
+    </g>
+    <g class="cycle" style="--steps:19; --delay:4s; --distance:251px">
+      <text y="34" textLength="251" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-cross-platform)">Cross-Platform Apps</text>
+      <rect class="caret" x="3" y="14" width="2" height="24" rx="1"/>
+    </g>
+    <g class="cycle" style="--steps:21; --delay:8s; --distance:278px">
+      <text y="34" textLength="278" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip-real-time)">Real-Time Experiences</text>
+      <rect class="caret" x="3" y="14" width="2" height="24" rx="1"/>
+    </g>
+  </g>
+</svg>

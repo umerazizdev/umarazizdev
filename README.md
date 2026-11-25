@@ -2,6 +2,8 @@
 
 <img src="assets/profile-card.svg" alt="Umer Aziz, Flutter Mobile App Developer for iOS and Android" width="100%" />
 
+<img src="assets/profile-typewriter.svg" alt="I build Flutter apps, cross-platform apps, and real-time experiences" width="500" />
+
 [![Portfolio](assets/btn-portfolio.svg)](https://umeraziz-p.vercel.app/)
 [![LinkedIn](assets/btn-linkedin.svg)](https://www.linkedin.com/in/umarazizdev/)
 [![Email](assets/btn-email.svg)](mailto:umar.aziz.dev@gmail.com)
