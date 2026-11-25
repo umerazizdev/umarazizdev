@@ -1,20 +1,23 @@
 <div align="center">
 
-# Hi, I'm Umer Aziz 👋
+<img src="assets/profile-card.svg" alt="Umer Aziz, Flutter Mobile App Developer for iOS and Android" width="100%" />
 
-**Flutter Mobile App Developer**
-
-I have around four years of experience building cross-platform apps for iOS and Android. I focus on responsive interfaces, maintainable code, and reliable mobile releases.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://umeraziz-p.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umarazizdev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umar.aziz.dev@gmail.com)
+[Portfolio](https://umeraziz-p.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/umarazizdev/) · [Email](mailto:umar.aziz.dev@gmail.com)
 
 </div>
 
-## Core expertise
+I’m Umer, a Flutter developer with around four years of experience building for iOS and Android. I build responsive screens, connect them to backend services, and help prepare apps for release. I care about keeping the code easy to change as a product grows.
 
-- **Mobile development:** Flutter, Dart, responsive UI, and reusable components
-- **Backend & API integration:** Firebase, Supabase, REST APIs, and third-party SDKs
-- **Real-time features & reliability:** Live communication, app monitoring, and crash diagnostics
-- **Release workflow:** Git & GitHub, App Store Connect, and Google Play Console
+## What I work on
+
+- **Mobile interfaces:** Flutter and Dart, reusable components, and responsive layouts.
+- **App integrations:** REST APIs, Firebase, Supabase, and third-party SDKs.
+- **Production apps:** Real-time features, crash diagnostics, and App Store and Google Play releases.
+
+## Selected mobile work
+
+- **SmartNPS360** — Shift tracking, location-aware workflows, and reporting for security teams.
+- **Trevoo** — Flutter UI and Supabase-backed features for a social app with real-time chat and live sessions.
+- **Amen** — Multilingual Bible reading and guided prayer flows with scheduled local reminders.
+
+[See the projects in my portfolio →](https://umeraziz-p.vercel.app/#projects)

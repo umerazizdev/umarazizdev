@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="248" viewBox="0 0 920 248" role="img" aria-labelledby="title description">
+  <title id="title">Umer Aziz</title>
+  <desc id="description">Flutter mobile developer for iOS and Android</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0d192a"/>
+      <stop offset="1" stop-color="#102c3d"/>
+    </linearGradient>
+    <linearGradient id="wordmark" x2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#a4cfff"/>
+      <stop offset="1" stop-color="#64edd1"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#85c6e8" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="card">
+      <rect width="920" height="248" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="920" height="248" fill="url(#background)"/>
+    <path d="M580 0h340v248H498z" fill="url(#grid)"/>
+    <path d="M586 0 503 248M618 0l-82 248" fill="none" stroke="#7ebed7" stroke-opacity=".18"/>
+    <circle cx="748" cy="126" r="92" fill="none" stroke="#69d6cd" stroke-opacity=".18"/>
+    <circle cx="748" cy="126" r="71" fill="none" stroke="#69d6cd" stroke-opacity=".22" stroke-dasharray="3 7"/>
+    <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+      <text x="46" y="72" fill="#91b5cf" font-size="15" font-weight="700" letter-spacing="3">iOS  /  ANDROID</text>
+      <text x="43" y="139" fill="url(#wordmark)" font-size="66" font-weight="800" letter-spacing="-3">Umer Aziz</text>
+      <text x="47" y="183" fill="#eef7ff" font-size="26" font-weight="550">Flutter Mobile App Developer</text>
+    </g>
+    <g transform="translate(701 44)">
+      <rect x="8" y="8" width="92" height="160" rx="20" fill="#081421" opacity=".65"/>
+      <rect width="92" height="160" rx="20" fill="#101f32" stroke="#a4cfff" stroke-width="2"/>
+      <rect x="8" y="8" width="76" height="144" rx="13" fill="#17354a"/>
+      <rect x="35" y="14" width="22" height="4" rx="2" fill="#6d91a7"/>
+      <rect x="20" y="34" width="52" height="36" rx="8" fill="#25475d"/>
+      <path d="M29 57l8-8 9 5 14-12" fill="none" stroke="#77eccd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M21 86h49m-49 10h36" stroke="#88b7da" stroke-width="4" stroke-linecap="round"/>
+      <rect x="20" y="112" width="52" height="18" rx="5" fill="#79e4d3"/>
+      <path d="M36 144h20" stroke="#7c9cb4" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="919" height="247" rx="23.5" fill="none" stroke="#44677f"/>
+</svg>
