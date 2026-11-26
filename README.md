@@ -44,7 +44,7 @@ I’m Umer, a Flutter developer with around four years of experience building fo
 
 **Backend & APIs**
 
-![Firebase](assets/stack-firebase.svg) ![Supabase](assets/stack-supabase.svg) ![Postman](assets/stack-postman.svg)
+![Firebase](assets/stack-firebase.svg) ![Supabase](assets/stack-supabase.svg) ![Postman](assets/stack-postman.svg) ![REST APIs](assets/stack-rest-apis.svg) ![Third-Party SDKs](assets/stack-third-party-sdks.svg)
 
 **Version control & releases**
 
