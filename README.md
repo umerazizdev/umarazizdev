@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-card.svg" alt="Umer Aziz, Flutter Mobile App Developer for iOS and Android" width="100%" />
+<a href="https://umeraziz-p.vercel.app/">
+  <img src="assets/profile-card.svg" alt="Visit Umer Aziz’s portfolio — Flutter Mobile App Developer for iOS and Android" width="100%" />
+</a>
 
 <a href="https://umeraziz-p.vercel.app/">
   <img src="assets/profile-typewriter.svg" alt="Visit Umer Aziz’s portfolio: Flutter apps, cross-platform apps, and real-time experiences" width="500" />
