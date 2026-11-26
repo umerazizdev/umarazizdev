@@ -9,7 +9,7 @@
 </a>
 
 [![Portfolio](assets/btn-portfolio.svg)](https://umeraziz-p.vercel.app/)
-[![LinkedIn](assets/btn-linkedin.svg)](https://www.linkedin.com/in/umarazizdev/)
+[![LinkedIn](assets/btn-linkedin.svg)](https://www.linkedin.com/in/umerazizdev/)
 [![Email](assets/btn-email.svg)](mailto:umar.aziz.dev@gmail.com)
 
 </div>
@@ -73,5 +73,5 @@ Language shares are a snapshot of GitHub-detected code bytes, aggregated across 
 I’m happy to talk Flutter roles, mobile app development, or collaboration.
 
 [![Portfolio](assets/btn-portfolio.svg)](https://umeraziz-p.vercel.app/)
-[![LinkedIn](assets/btn-linkedin.svg)](https://www.linkedin.com/in/umarazizdev/)
+[![LinkedIn](assets/btn-linkedin.svg)](https://www.linkedin.com/in/umerazizdev/)
 [![Email](assets/btn-email.svg)](mailto:umar.aziz.dev@gmail.com)
