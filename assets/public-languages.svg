@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="324" viewBox="0 0 490 324" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">GitHub-detected code bytes across 13 public repositories. Dart 52.8%, HTML 15.4%, C++ 13.9%, CMake 9.5%, C 7.3%, Other 1.1%.</desc>
+  <defs><linearGradient id="bar"><stop stop-color="#5ba9f3"/><stop offset="1" stop-color="#77e6cb"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="489" height="323" rx="18" fill="#102134" stroke="#375670"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="25" y="38" fill="#edf6ff" font-size="23" font-weight="750">Most Used Languages</text>
+    <text x="25" y="62" fill="#adc4d6" font-size="14">GitHub-detected code in 13 public repos</text>
+    <text x="25" y="101" fill="#edf6ff" font-size="15">Dart</text>
+    <rect x="126" y="92" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="92" width="142.59" height="8" rx="4.00" fill="url(#bar)"/>
+    <text x="465" y="101" text-anchor="end" fill="#b6eee3" font-size="15">52.8%</text>
+    <text x="25" y="135" fill="#edf6ff" font-size="15">HTML</text>
+    <rect x="126" y="126" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="126" width="41.59" height="8" rx="4.00" fill="url(#bar)"/>
+    <text x="465" y="135" text-anchor="end" fill="#b6eee3" font-size="15">15.4%</text>
+    <text x="25" y="169" fill="#edf6ff" font-size="15">C++</text>
+    <rect x="126" y="160" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="160" width="37.59" height="8" rx="4.00" fill="url(#bar)"/>
+    <text x="465" y="169" text-anchor="end" fill="#b6eee3" font-size="15">13.9%</text>
+    <text x="25" y="203" fill="#edf6ff" font-size="15">CMake</text>
+    <rect x="126" y="194" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="194" width="25.53" height="8" rx="4.00" fill="url(#bar)"/>
+    <text x="465" y="203" text-anchor="end" fill="#b6eee3" font-size="15">9.5%</text>
+    <text x="25" y="237" fill="#edf6ff" font-size="15">C</text>
+    <rect x="126" y="228" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="228" width="19.79" height="8" rx="4.00" fill="url(#bar)"/>
+    <text x="465" y="237" text-anchor="end" fill="#b6eee3" font-size="15">7.3%</text>
+    <text x="25" y="271" fill="#edf6ff" font-size="15">Other</text>
+    <rect x="126" y="262" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="262" width="2.91" height="8" rx="1.45" fill="url(#bar)"/>
+    <text x="465" y="271" text-anchor="end" fill="#b6eee3" font-size="15">1.1%</text>
+    <text x="25" y="307" fill="#adc4d6" font-size="13">Snapshot · Nov 2026</text>
+  </g>
+</svg>

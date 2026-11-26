@@ -36,12 +36,33 @@ I’m Umer, a Flutter developer with around four years of experience building fo
 
 ## Stack
 
-| Area | What I use |
-| --- | --- |
-| Mobile UI | `Flutter` · `Dart` · `Figma` |
-| Backend & APIs | `Firebase` · `Supabase` · `REST APIs` · `Postman` |
-| Integrations & monitoring | `Third-party SDKs` · `Real-time features` · `App monitoring` |
-| Version control & release | `Git` · `GitHub` · `App Store Connect` · `Google Play Console` |
+<div align="center">
+
+**Mobile development**
+
+![Flutter](https://img.shields.io/badge/Flutter-245986?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-245986?style=flat&logo=dart&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-245986?style=flat&logo=figma&logoColor=white)
+
+**Backend & APIs**
+
+![Firebase](https://img.shields.io/badge/Firebase-176758?style=flat&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-176758?style=flat&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-176758?style=flat&logo=postman&logoColor=white)
+
+**Version control & releases**
+
+![Git](https://img.shields.io/badge/Git-29496B?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-29496B?style=flat&logo=github&logoColor=white) ![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-29496B?style=flat&logo=appstore&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-29496B?style=flat&logo=googleplay&logoColor=white)
+
+<img src="assets/public-languages.svg" alt="Most Used Languages across 13 public GitHub repositories: Dart 52.8%, HTML 15.4%, C++ 13.9%, CMake 9.5%, C 7.3%, Other 1.1%." width="490" />
+
+</div>
+
+Language shares are based on GitHub-detected code bytes. They exclude private work, forks, archived repositories, and this profile repository.
+
+<details>
+<summary>GitHub Activity</summary>
+
+- [Contribution activity](https://github.com/umarazizdev?tab=overview#contribution-activity)
+- [Browse public repositories](https://github.com/umarazizdev?tab=repositories)
+
+</details>
 
 ## Connect
 
