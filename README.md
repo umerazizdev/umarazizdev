@@ -25,6 +25,7 @@ I’m Umer, a Flutter developer with around four years of experience building fo
 | **SmartNPS360** | Security workforce app with shift tracking, field reporting, and location-aware workflows. | Flutter, REST APIs, Google Maps, Firebase Crashlytics | [Portfolio](https://umeraziz-p.vercel.app/#projects) |
 | **Trevoo** | Social app with real-time chat and live sessions. My work focused on Flutter UI and Supabase-backed features. | Flutter, Supabase Realtime, Agora RTC, RevenueCat | [Live site](https://trevoo.app/) |
 | **Amen** | Multilingual Bible and prayer app with guided devotional flows and scheduled local reminders. | Flutter, Firebase Auth, Cloud Firestore | [Portfolio](https://umeraziz-p.vercel.app/#projects) |
+| **CampusCare** | College complaint management app with issue reporting, status tracking, and staff assignment. | Flutter, GetX, Firebase | [Portfolio](https://umeraziz-p.vercel.app/#projects) |
 
 ### More Flutter repositories
 
