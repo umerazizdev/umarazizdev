@@ -40,15 +40,15 @@ I’m Umer, a Flutter developer with around four years of experience building fo
 
 **Mobile development**
 
-![Flutter](https://img.shields.io/badge/Flutter-245986?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-245986?style=flat&logo=dart&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-245986?style=flat&logo=figma&logoColor=white)
+![Flutter](assets/stack-flutter.svg) ![Dart](assets/stack-dart.svg) ![Figma](assets/stack-figma.svg)
 
 **Backend & APIs**
 
-![Firebase](https://img.shields.io/badge/Firebase-176758?style=flat&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-176758?style=flat&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-176758?style=flat&logo=postman&logoColor=white)
+![Firebase](assets/stack-firebase.svg) ![Supabase](assets/stack-supabase.svg) ![Postman](assets/stack-postman.svg)
 
 **Version control & releases**
 
-![Git](https://img.shields.io/badge/Git-29496B?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-29496B?style=flat&logo=github&logoColor=white) ![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-29496B?style=flat&logo=appstore&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-29496B?style=flat&logo=googleplay&logoColor=white)
+![Git](assets/stack-git.svg) ![GitHub](assets/stack-github.svg) ![App Store Connect](assets/stack-app-store-connect.svg) ![Google Play Console](assets/stack-google-play-console.svg)
 
 <img src="assets/public-languages.svg" alt="Most Used Languages across 13 public GitHub repositories: Dart 52.8%, HTML 15.4%, C++ 13.9%, CMake 9.5%, C 7.3%, Other 1.1%." width="490" />
 

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="29" viewBox="0 0 99 29">
+  <title>Firebase</title>
+  <rect x=".5" y=".5" width="98" height="28" rx="7" fill="#144d47" stroke="#82ead0" stroke-opacity=".48"/>
+  <circle cx="11" cy="14.5" r="2.5" fill="#82ead0"/>
+  <text x="20" y="19" font-family="system-ui, sans-serif" font-size="13" font-weight="650" fill="#f2f8ff">Firebase</text>
+</svg>
