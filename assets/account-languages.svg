@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="392" viewBox="0 0 490 392" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">Combined GitHub language share: Dart 65.94%, HTML 11.78%, Java 5.90%, Swift 4.35%, C++ 3.41%, CMake 2.39%, Kotlin 2.16%, Other 4.06%.</desc>
+  <defs><linearGradient id="bar"><stop stop-color="#5ba9f3"/><stop offset="1" stop-color="#77e6cb"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="489" height="391" rx="18" fill="#102134" stroke="#375670"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="25" y="38" fill="#edf6ff" font-size="23" font-weight="750">Most Used Languages</text>
+    <text x="25" y="62" fill="#adc4d6" font-size="14">GitHub-detected code across my repositories</text>
+    <text x="25" y="101" fill="#edf6ff" font-size="15">Dart</text>
+    <rect x="126" y="92" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="92" width="178.03" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="101" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">65.94%</text>
+    <text x="25" y="135" fill="#edf6ff" font-size="15">HTML</text>
+    <rect x="126" y="126" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="126" width="31.81" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="135" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">11.78%</text>
+    <text x="25" y="169" fill="#edf6ff" font-size="15">Java</text>
+    <rect x="126" y="160" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="160" width="15.94" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="169" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">5.90%</text>
+    <text x="25" y="203" fill="#edf6ff" font-size="15">Swift</text>
+    <rect x="126" y="194" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="194" width="11.76" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="203" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">4.35%</text>
+    <text x="25" y="237" fill="#edf6ff" font-size="15">C++</text>
+    <rect x="126" y="228" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="228" width="9.19" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="237" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">3.41%</text>
+    <text x="25" y="271" fill="#edf6ff" font-size="15">CMake</text>
+    <rect x="126" y="262" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="262" width="6.46" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="271" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">2.39%</text>
+    <text x="25" y="305" fill="#edf6ff" font-size="15">Kotlin</text>
+    <rect x="126" y="296" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="296" width="5.84" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="305" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">2.16%</text>
+    <text x="25" y="339" fill="#edf6ff" font-size="15">Other</text>
+    <rect x="126" y="330" width="270" height="8" rx="4" fill="#263c50"/>
+    <rect x="126" y="330" width="10.97" height="8" rx="4" fill="url(#bar)"/>
+    <text x="465" y="339" text-anchor="end" fill="#b6eee3" font-size="15" font-variant-numeric="tabular-nums">4.06%</text>
+    <text x="25" y="375" fill="#adc4d6" font-size="13">Snapshot · Nov 2026</text>
+  </g>
+</svg>

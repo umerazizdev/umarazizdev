@@ -50,11 +50,11 @@ I’m Umer, a Flutter developer with around four years of experience building fo
 
 ![Git](assets/stack-git.svg) ![GitHub](assets/stack-github.svg) ![App Store Connect](assets/stack-app-store-connect.svg) ![Google Play Console](assets/stack-google-play-console.svg)
 
-<img src="assets/public-languages.svg" alt="Most Used Languages across 13 public GitHub repositories: Dart 52.8%, HTML 15.4%, C++ 13.9%, CMake 9.5%, C 7.3%, Other 1.1%." width="490" />
+<img src="assets/account-languages.svg" alt="Most Used Languages across my GitHub repositories: Dart 65.94%, HTML 11.78%, Java 5.90%, Swift 4.35%, C++ 3.41%, CMake 2.39%, Kotlin 2.16%, Other 4.06%." width="490" />
 
 </div>
 
-Language shares are based on GitHub-detected code bytes. They exclude private work, forks, archived repositories, and this profile repository.
+Language shares are a snapshot of GitHub-detected code bytes, aggregated across public and private repositories I own.
 
 <details>
 <summary>GitHub Activity</summary>
