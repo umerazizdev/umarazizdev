@@ -33,8 +33,8 @@ I’m Umer, a Flutter developer with around four years of experience building fo
 
 ### More Flutter repositories
 
-- **[Hive Notes](https://github.com/umarazizdev/Hive-Notes)** — A Flutter notes app backed by Hive local storage.
-- **[Designer Digger](https://github.com/umarazizdev/Designer-Digger)** — A food-ordering app with authentication, favorites, and a shopping cart.
+- **[Hive Notes](https://github.com/umerazizdev/Hive-Notes)** — A Flutter notes app backed by Hive local storage.
+- **[Designer Digger](https://github.com/umerazizdev/Designer-Digger)** — A food-ordering app with authentication, favorites, and a shopping cart.
 
 [![Explore projects](assets/btn-projects.svg)](https://umeraziz-p.vercel.app/#projects)
 
@@ -63,8 +63,8 @@ Language shares are a snapshot of GitHub-detected code bytes, aggregated across 
 <details>
 <summary>GitHub Activity</summary>
 
-- [Contribution activity](https://github.com/umarazizdev?tab=overview#contribution-activity)
-- [Browse public repositories](https://github.com/umarazizdev?tab=repositories)
+- [Contribution activity](https://github.com/umerazizdev?tab=overview#contribution-activity)
+- [Browse public repositories](https://github.com/umerazizdev?tab=repositories)
 
 </details>
 
